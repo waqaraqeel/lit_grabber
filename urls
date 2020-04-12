@@ -1,0 +1,29 @@
+#venue-year main_url style_instructions
+
+#SIGOMM
+sigcomm-2019 https://dl.acm.org/doi/proceedings/10.1145/3341302 simple
+sigcomm-2018 https://dl.acm.org/doi/proceedings/10.1145/3230543
+sigcomm-2017 https://dl.acm.org/doi/proceedings/10.1145/3098822
+sigcomm-2016 https://dl.acm.org/doi/proceedings/10.1145/2934872
+sigcomm-2015 https://dl.acm.org/doi/proceedings/10.1145/2785956
+
+#IMC
+imc-2019 https://dl.acm.org/doi/proceedings/10.1145/3355369
+imc-2018 https://dl.acm.org/doi/proceedings/10.1145/3278532 seemore
+imc-2017 https://dl.acm.org/doi/proceedings/10.1145/3131365
+imc-2016 https://dl.acm.org/doi/proceedings/10.1145/2987443
+imc-2015 https://dl.acm.org/doi/proceedings/10.1145/2815675
+
+#HotNets
+hotnets-2019 https://dl.acm.org/doi/proceedings/10.1145/3365609 simple
+hotnets-2018 https://dl.acm.org/doi/proceedings/10.1145/3286062 simple
+hotnets-2017 https://dl.acm.org/doi/proceedings/10.1145/3152434 simple
+hotnets-2016 https://dl.acm.org/doi/proceedings/10.1145/3005745 simple
+hotnets-2015 https://dl.acm.org/doi/proceedings/10.1145/2834050 simple
+
+#NSDI
+nsdi-2020 https://www.usenix.org/conference/nsdi20/technical-sessions
+nsdi-2019 https://www.usenix.org/conference/nsdi19/technical-sessions
+nsdi-2018 https://www.usenix.org/conference/nsdi18/technical-sessions
+nsdi-2017 https://www.usenix.org/conference/nsdi17/technical-sessions
+nsdi-2016 https://www.usenix.org/conference/nsdi16/technical-sessions older
