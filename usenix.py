@@ -28,4 +28,5 @@ for article in soup.select(selector):
     inner = requests.get(get_full_link(article["href"]))
     in_soup = BeautifulSoup(inner.text, "html.parser")
     link = in_soup.select("div.field-name-field-presentation-pdf span.file a")
-    print(f"{title} {link[-1]['href']}")
+    if link:
+        print(f"{title} {link[-1]['href']}")

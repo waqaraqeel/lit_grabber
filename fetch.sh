@@ -9,6 +9,7 @@ declare -A HANDLERS=(
 	["hotnets"]="./acm.py"
 	["nsdi"]="./usenix.py"
 	["osdi"]="./usenix.py"
+	["usenixsec"]="./usenix.py"
 )
 
 VENUE=$1
