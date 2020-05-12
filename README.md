@@ -15,6 +15,7 @@ Tested for 2016-2020 SIGCOMM, IMC, HotNets, NSDI, OSDI. Will probably work for o
 
 ### On all platforms
 - `pip3 install BeautifulSoup4`
+- `pip3 install requests`
 - assumes full PDFs are available on network
 - bash version >= 4 (special for Mac OS, see below)
 - `wget`
