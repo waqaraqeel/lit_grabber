@@ -1,6 +1,6 @@
 #!/bin/bash
 URLS=./urls
-OUT=/home/waqeel/Documents/proceedings
+OUT=./results
 
 # Venue handler mapping
 declare -A HANDLERS=(
