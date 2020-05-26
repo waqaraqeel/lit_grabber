@@ -10,6 +10,7 @@ declare -A HANDLERS=(
 	["nsdi"]="./usenix.py"
 	["osdi"]="./usenix.py"
 	["usenixsec"]="./usenix.py"
+	["conext"]="./acm.py"
 )
 
 VENUE=$1

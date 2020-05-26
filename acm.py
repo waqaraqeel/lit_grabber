@@ -17,7 +17,7 @@ def get_full_link(link):
 
 
 def get_paper_info(item):
-    title = item.select("h5.issue-item__title")[0].string.split("\n")[0]
+    title = item.select("h5.issue-item__title")[0].text.split("\n")[0]
     title = title[:128].replace(" ", "_").replace("/", "")
     link = item.select('a[data-title="PDF"]')
     if link:
